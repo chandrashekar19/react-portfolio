@@ -60,23 +60,23 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "90%"
       },
       {
         "name": "JavaScript",
-        "level": "95%"
+        "level": "85%"
       },
       {
         "name": "Git",
         "level": "75%"
       },
       {
-        "name": "JavaScript",
-        "level": "100%"
+        "name": "HTML5",
+        "level": "75%"
       },
       {
-        "name": "",
-        "level": "80%"
+        "name": "CSS",
+        "level": "65%"
       }
     ]
   },
