@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name": "Kalal Chandrashekar",
+    "occupation": "Software Developer",
+    "description": "React JS Developer.",
+    "image": "profile.jpg",
+    "bio": "My name is Kalal Chandrashekar, I'm a Front End  React JS Developer. Currently  Exploring MERN Stack .",
+  
+    "email": "kalalshannu19@gmail.com",
+    "phone": "+91 9963820050",
+    "address": {
+      "street": "Makthal",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "zip": "509208"
+    },
+    "resumedownload": "https://drive.google.com/file/d/1dUjUjv5JmKHO6Xwn86aY8WfWyhmY3rTj/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kalal-chandu/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shannu_1901/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Chandu11215",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    
+    "education": [
+      {
+        "school": "GuruNanak Institutions - Hyderabad",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "November 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "DCT Academy",
+        "title": "JavaScript/React JS Specialist",
+        "years": "July 2021 - December 2021",
+        "description": "Due to my sheer interest in Web Development I went on to explore  React Js and Developed Some Cool Projects"
+      },
+      {
+        "company": "Udemy",
+        "title": "FreeLancing",
+        "years": "January 2020 - March 2020",
+        "description": "My passion become so strong when i have Started doing web development on Udemy"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Movie-Series Information",
+        "category": "Movie series  information with React-redux",
+        "image": "movie-info.png",
+        "url": "https://vigilant-wozniak-a659b0.netlify.app/#/"
+      },
+      {
+        "title": "Contact Manager App",
+        "category": "Contact Manager built with ReactJS",
+        "image": "Contact.png",
+        "url": "https://github.com/Chandu11215/contact-information"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I am very much Fortunate that i have Joined DCT Academy Where I haved gained lot of real time experience and it has helped my vision to become a React Developer, I went on to explore lot of technologies and Tools and many more relevant skills  "
+      }
+    ]
+  }
+}
