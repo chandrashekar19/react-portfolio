@@ -13,7 +13,7 @@ const Contact = ({ data }) => {
       e.preventDefault();
       window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
    }
-    
+
 
    return (
       <section id="contact">
