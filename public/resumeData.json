@@ -93,13 +93,26 @@
         "category": "Contact Manager built with ReactJS",
         "image": "Contact.png",
         "url": "https://github.com/Chandu11215/contact-information"
+      },
+      {
+        "title": "ToDo List App",
+        "category": "ToDo List App with React Hooks",
+        "image": "ToDo-List.png",
+        "url": "https://quirky-torvalds-f9b23d.netlify.app/"
+      },
+      {
+        "title": "Keeper App",
+        "category": "Keeper App built with ReactJS",
+        "image": "Keeper-App.png",
+        "url": "https://happy-euler-bc086c.netlify.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "I am very much Fortunate that i have Joined DCT Academy Where I haved gained lot of real time experience and it has helped my vision to become a React Developer, I went on to explore lot of technologies and Tools and many more relevant skills  "
+        "text": "I am very much Fortunate that i have Joined DCT Academy Where I haved gained lot of real time experience and it has helped my vision to become a React Developer, I went on to explore lot of technologies and Tools and many more relevant skills",
+        "credit": "Thank you Anirudh sir for giving me self Confidence"
       }
     ]
   }
