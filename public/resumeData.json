@@ -4,7 +4,7 @@
     "occupation": "Software Developer",
     "description": "React JS Developer.",
     "image": "profile.jpg",
-    "bio": "My name is Kalal Chandrashekar, I'm a Front End  React JS Developer. Currently  Exploring MERN Stack .",
+    "bio": "My name is Kalal Chandrashekar, I'm a Front End  React JS Developer",
   
     "email": "kalalshannu19@gmail.com",
     "phone": "+91 9963820050",
@@ -14,17 +14,12 @@
       "state": "Telangana",
       "zip": "509208"
     },
-    "resumedownload": "https://drive.google.com/file/d/10iN0lAftQ4V_svI1mQceVHopZlFNn9kZ/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1S2CikOFhRT3zTTW3H9rmtErPAXUylBCd/view?usp=share_link",
     "social": [
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/kalal-chandu/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/shannu_1901/",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
@@ -45,38 +40,42 @@
     ],
     "work": [
       {
-        "company": "DCT Academy",
+        "company": "Banyan Cloud",
         "title": "JavaScript/React JS Specialist",
-        "years": "July 2021 - December 2021",
-        "description": "Due to my sheer interest in Web Development I went on to explore  React Js and Developed Some Cool Projects"
+        "years": "May 2022 - Jan 2023",
+        "description": "worked as UI Engineer and Individually contributed to the Admin Dashboards for the project"
       },
       {
-        "company": "Udemy",
-        "title": "FreeLancing",
-        "years": "January 2020 - March 2020",
-        "description": "My passion become so strong when i have Started doing web development on Udemy"
+        "company": "Mroads",
+        "title": "React Js",
+        "years": "Jan 2022 - APril 2023",
+        "description": "Worked as a Associate Software Engineer and worked on the sample projects"
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
         "level": "85%"
       },
       {
-        "name": "Git",
-        "level": "75%"
-      },
-      {
         "name": "HTML5",
         "level": "75%"
       },
       {
-        "name": "CSS",
-        "level": "65%"
+        "name": "CSS3",
+        "level": "85%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "70%"
+      },
+      {
+        "name": "Material UI",
+        "level": "70%"
       }
     ]
   },
@@ -111,8 +110,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "I am very much Fortunate that i have Joined DCT Academy Where I haved gained lot of real time experience and it has helped my vision to become a React Developer, I went on to explore lot of technologies and Tools and many more relevant skills",
-        "user": "Thank you Anirudh sir for Boosting my  self Confidence"
+        "text": "A Front End React js  developer who is always willing to learn new things and explore the new technologies in React"
+      
       }
     ]
   }
