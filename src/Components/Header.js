@@ -1,14 +1,17 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Header extends Component {
-   render() {
+const Header = (props) => {
 
-   if(this.props.data){
-      var name = this.props.data.name;
-      var occupation= this.props.data.occupation;
-      var description= this.props.data.description;
-      var city= this.props.data.address.city;
-      var networks= this.props.data.social.map(function(network){
+   const { data } = props;
+
+   console.log('DATA', data);
+
+   if(data){
+      var Name = data?.name;
+      var Occupation= data?.occupation;
+      var Description= data?.description;
+      var City= data?.address.city;
+      var Networks= data?.social.map((network) => {
          return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
    }
@@ -34,11 +37,11 @@ class Header extends Component {
 
       <div className="row banner">
          <div className="banner-text">
-            <h1 className="responsive-headline"> Hi 👋 I'm {name}.</h1>
-            <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
+            <h1 className="responsive-headline"> Hi 👋 I'm {Name}.</h1>
+            <h3>I'm a {City} based <span>{Occupation}</span>. {Description}.</h3>
             <hr />
             <ul className="social">
-               {networks}
+               {Networks}
             </ul>
          </div>
       </div>
@@ -50,6 +53,4 @@ class Header extends Component {
    </header>
    );
    }
-}
-
 export default Header;

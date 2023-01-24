@@ -1,10 +1,12 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-class Footer extends Component {
-  render() {
+const Footer = (props) => {
 
-    if(this.props.data){
-      var networks= this.props.data.social.map(function(network){
+  const { data } = props;
+
+
+    if(data){
+      var networks= data.social.map((network) => {
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
       })
     }
@@ -23,8 +25,7 @@ class Footer extends Component {
           </ul>
 
           <ul className="copyright">
-              <li>&copy; Copyright 2021  Chandrashekar</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>&copy; Copyright 2023  Chandrashekar</li>
           </ul>
 
         </div>
@@ -33,6 +34,5 @@ class Footer extends Component {
   </footer>
     );
   }
-}
 
 export default Footer;
