@@ -1,2 +1,2 @@
-# Kalal Chandrashekar ReactJS Portfolio Template      
+# ReactJS Portfolio Project   
 
