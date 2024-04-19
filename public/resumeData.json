@@ -3,7 +3,7 @@
     "name": " Kalal Chandrashekar ",
     "occupation": "Software Developer",
     "description": "React JS Developer.",
-    "image": "profile.jpg",
+    "image": "profile.png",
     "bio": "My name is Kalal Chandrashekar, I'm a Front End  React JS Developer",
   
     "email": "chandra.kalal1901@gmail.com",
@@ -98,6 +98,12 @@
         "category": "Admin Dashboard with the different features",
         "image": "dashboard.png",
         "url": "https://features-webapp.netlify.app/"
+      },
+      {
+        "title": "Logger Application",
+        "category": "Logger Application for the Employees",
+        "image": "logger.png",
+        "url": "https://master--logger-web-app.netlify.app/"
       }
     ]
   },
