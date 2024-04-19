@@ -14,7 +14,7 @@
       "state": "Telangana",
       "zip": "509208"
     },
-    "resumedownload": "",
+    "resumedownload": "https://drive.google.com/file/d/1Y9_mE4oOV4dnYsfRw8AtqmjZ-xni6QLj/view?usp=drive_link",
     "social": [
       {
         "name": "linkedin",
@@ -103,14 +103,7 @@
         "title": "Logger Application",
         "category": "Logger Application for the Employees",
         "image": "logger.png",
-        "url": "https://master--logger-web-app.netlify.app/"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "A Front End React js  developer who is always willing to learn new things and explore the new technologies in FrontEnd Development"
+        "url": "https://github.com/k19-c/logger-application"
       }
     ]
   }
