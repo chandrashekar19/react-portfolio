@@ -88,35 +88,23 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Movie-Series Information",
-        "category": "Movie series  information with React-redux",
-        "image": "movie-info.png",
-        "url": "https://vigilant-wozniak-a659b0.netlify.app/#/"
+        "title": "Job-poster application",
+        "category": "Job Application   React-redux-toolkit",
+        "image": "Job-poster.png",
+        "url": "https://web-job.netlify.app/landing"
       },
       {
-        "title": "Contact Manager App",
-        "category": "Contact Manager built with ReactJS",
-        "image": "Contact.png",
-        "url": "https://github.com/Chandu11215/contact-information"
-      },
-      {
-        "title": "ToDo List App",
-        "category": "ToDo List App with React Hooks",
-        "image": "ToDo-List.png",
-        "url": "https://quirky-torvalds-f9b23d.netlify.app/"
-      },
-      {
-        "title": "Keeper App",
-        "category": "Keeper App built with ReactJS",
-        "image": "Keeper-App.png",
-        "url": "https://happy-euler-bc086c.netlify.app/"
+        "title": "Admin Dashoboard",
+        "category": "Admin Dashboard with the different features",
+        "image": "dashboard.png",
+        "url": "https://features-webapp.netlify.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "A Front End React js  developer who is always willing to learn new things and explore the new technologies in React"
+        "text": "A Front End React js  developer who is always willing to learn new things and explore the new technologies in FrontEnd Development"
       }
     ]
   }
