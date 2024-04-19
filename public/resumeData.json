@@ -14,16 +14,16 @@
       "state": "Telangana",
       "zip": "509208"
     },
-    "resumedownload": "https://drive.google.com/file/d/1S2CikOFhRT3zTTW3H9rmtErPAXUylBCd/view?usp=share_link",
+    "resumedownload": "",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/kalal-chandu/",
+        "url": "https://www.linkedin.com/in/kalal1901/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/Chandu11215",
+        "url": "https://github.com/k19-c",
         "className": "fa fa-github"
       }
     ]
@@ -40,16 +40,22 @@
     ],
     "work": [
       {
+        "company": "Infinity Learn",
+        "title": "SDE 1",
+        "years": "May 2023 - Dec 2023",
+        "description": "Developed interactive web pages using HTML5, CSS3, JavaScript and React. Optimized React components, Improved performance and user Interaction by elimination component redundancy and maximize the reusability of same components. collaboratively with Development Team."
+      },
+      {
         "company": "Banyan Cloud",
-        "title": "JavaScript/React JS Specialist",
+        "title": "UI Engineer",
         "years": "May 2022 - Jan 2023",
-        "description": "worked as UI Engineer and Individually contributed to the Admin Dashboards for the project"
+        "description": "Contributed to  development of Admin Dashboard React project, enhancing user interface and functionality. Implemented key features, optimized performance and collaborated with team members to ensure project objectives were met efficiently. "
       },
       {
         "company": "Mroads",
-        "title": "React Js",
-        "years": "Jan 2022 - APril 2023",
-        "description": "Worked as a Associate Software Engineer and worked on the sample projects"
+        "title": "UI Engineer",
+        "years": "Jan 2022 - April 2022",
+        "description": "Developed a responsive small chunk of projects  with React, HTML and  CSS. collectively maintain the Efficency of code and also got experience with real time project using version control GIT."
       }
     ],
     "skills": [
