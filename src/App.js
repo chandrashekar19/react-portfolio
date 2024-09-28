@@ -1,7 +1,11 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
-
-import { Header, About, Resume, Portfolio, Contact, Footer } from "./index";
+import About from "./components/about";
+import Footer from "./components/footer";
+import Contact from "./components/contact";
+import Portfolio from "./components/portfolio";
+import Resume from "./components/resume";
+import Header from "./components/header";
 
 const App = () => {
   const [resumeData, setResumeData] = useState({});
