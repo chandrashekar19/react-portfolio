@@ -1,12 +1,11 @@
 {
   "main": {
-    "name": " Kalal Chandrashekar ",
-    "occupation": "Software Developer",
-    "description": "React JS Developer.",
-    "image": "profile.png",
-    "bio": "My name is Kalal Chandrashekar, I'm a FrontEnd  React JS Developer",
-  
-    "email": "chandra.kalal1901@gmail.com",
+    "name": "Chandrashekar",
+    "occupation": "Frontend Developer",
+    "description": "with a strong focus on building scalable, efficient web applications.",
+    "image": "profile.jpg",
+    "bio": "I'm Chandrashekar, with 2 years of front-end development experience, I enjoy turning design ideas and wireframes into interactive and responsive web applications. I’m passionate about building good user interfaces. I love diving into new tools, libraries, and techniques to keep my skills sharp. whether it's hooking up APIs, fine-tuning performance, or adding little details that make a big difference . 🚀  Let’s connect and explore opportunities to create outstanding digital experiences together! 🌐✨ ",
+    "email": "kalalshannu19@gmail.com",
     "phone": "+91 9963820050",
     "address": {
       "street": "Makthal",
@@ -17,50 +16,61 @@
     "resumedownload": "https://drive.google.com/file/d/1r1mGi7IP98QuYPRcNB6NCOLSc81dF1bM/view?usp=drive_link",
     "social": [
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/kalal1901/",
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/chandrashekar19/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "github",
-        "url": "https://github.com/k19-c",
+        "name": "GitHub",
+        "url": "https://github.com/chandrashekar19",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    
     "education": [
       {
-        "school": "GuruNanak Institutions - Hyderabad",
-        "degree": "Bachelor's Degree, Computer Science",
+        "school": "GuruNanak Institutions, Hyderabad",
+        "degree": "Bachelor's Degree in Computer Science",
         "graduated": "November 2020",
-        "description": "Graduated with Distinction"
+        "description": "Graduated with distinction, specializing in software development and engineering."
       }
     ],
     "work": [
       {
         "company": "Infinity Learn",
         "title": "SDE 1",
-        "years": "May 2023 - Dec 2023",
-        "description": "Developed interactive web pages using HTML5, CSS3, JavaScript and React. Optimized React components, Improved performance and user Interaction by elimination component redundancy and maximize the reusability of same components. collaboratively with Development Team."
+        "years": "March 2023 - December 2023",
+        "description": "Led the development of dynamic, interactive web pages using React, JavaScript, HTML5, and CSS3. Optimized performance by reducing component redundancy, improving code reuse, and enhancing user experience. Collaborated closely with cross-functional teams to deliver key features."
       },
       {
         "company": "Banyan Cloud",
         "title": "UI Engineer",
         "years": "May 2022 - Jan 2023",
-        "description": "Contributed to  development of Admin Dashboard React project, enhancing user interface and functionality. Implemented key features, optimized performance and collaborated with team members to ensure project objectives were met efficiently. "
+        "description": "Developed and enhanced user interfaces for an Admin Dashboard React project. Implemented new features, optimized performance, and worked collaboratively to meet project goals while ensuring high code quality and efficiency."
       },
       {
         "company": "Mroads",
-        "title": "UI Engineer",
+        "title": "Associate software Intern",
         "years": "Jan 2022 - April 2022",
-        "description": "Developed a responsive small chunk of projects  with React, HTML and  CSS. collectively maintain the Efficency of code and also got experience with real time project using version control GIT."
+        "description": "Contributed to multiple responsive React projects, focusing on UI development with HTML, CSS, and JavaScript. Gained experience in working with Git for version control in real-time development."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Next Js",
+        "level": "70%"
+      },
+      {
+        "name": "Angular Js",
+        "level": "60%"
+      },
+      {
+        "name": "TypeScript",
         "level": "80%"
       },
       {
@@ -76,34 +86,64 @@
         "level": "85%"
       },
       {
+        "name": "Tailwind CSS",
+        "level": "85%"
+      },
+      {
         "name": "Bootstrap",
         "level": "70%"
       },
       {
         "name": "Material UI",
         "level": "70%"
+      },
+      {
+        "name": "Docker",
+        "level": "60%"
+      },
+      {
+        "name": "Redux / Redux Toolkit",
+        "level": "80%"
+      },
+      {
+        "name": "Context API",
+        "level": "75%"
+      },
+      {
+        "name": "Zustand",
+        "level": "80%"
+      },
+      {
+        "name": " Version Control (Git)",
+        "level": "85%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Job-poster application",
-        "category": "Job Application   React-redux-toolkit",
+        "title": "Job Poster Application",
+        "category": "Job Application built with React and Redux Toolkit",
         "image": "Job-poster.png",
         "url": "https://web-job.netlify.app/landing"
       },
       {
-        "title": "Admin Dashoboard",
-        "category": "Admin Dashboard with the different features",
+        "title": "Admin Dashboard",
+        "category": "Comprehensive Admin Dashboard featuring user management and data visualization",
         "image": "dashboard.png",
         "url": "https://features-webapp.netlify.app/"
       },
       {
-        "title": "Logger Application",
-        "category": "Logger Application for the Employees",
-        "image": "logger.png",
-        "url": "https://github.com/k19-c/logger-application"
+        "title": "Nike Landing Page",
+        "category": "Nike Landing Page Build using React + TypeScript + Tailwind CSS",
+        "image": "nike-landing.png",
+        "url": ""
+      },
+      {
+        "title": "Health Care Application",
+        "category": "A Healthcare system using Nextjs, TypeScript, ShadCN UI, and Tailwind CSS for the frontend, Appwrite for database management, and Twilio for messaging.",
+        "image": "healthcare.png",
+        "url": "https://health-care-amber.vercel.app/"
       }
     ]
   }
