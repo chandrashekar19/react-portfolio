@@ -28,6 +28,9 @@
   },
   "description": "![ReactJS Resume Website Template](resume-screenshot-naz.png?raw=true \"ReactJS Resume Website Template\")",
   "main": "index.js",
-  "author": "'Kalal Chandu'",
-  "license": "ISC"
+  "author": "'Chandrashekar'",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
