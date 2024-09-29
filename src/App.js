@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
-import About from "./components/about";
-import Footer from "./components/footer";
-import Contact from "./components/contact";
-import Portfolio from "./components/portfolio";
-import Resume from "./components/resume";
-import Header from "./components/header";
+import {
+  About,
+  Contact,
+  Footer,
+  Header,
+  Portfolio,
+  Resume,
+} from "./components";
 
 const App = () => {
   const [resumeData, setResumeData] = useState({});
